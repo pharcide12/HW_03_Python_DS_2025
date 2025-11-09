@@ -1,4 +1,4 @@
-# Домашнее задание №3 — Парсинг, Git и тестирование на Python
+<img width="561" height="540" alt="image" src="https://github.com/user-attachments/assets/c5be9b25-5daf-4579-9d81-f2b21b91615d" /># Домашнее задание №3 — Парсинг, Git и тестирование на Python
 
 ## 🎯 Цель
 Освоить базовые подходы к web-scraping с библиотеками `requests` и `BeautifulSoup`,  
@@ -31,3 +31,4 @@
 from scraper import scrape_books
 
 scrape_books(pages=2, is_save=True)
+Merge confirmed. HW_03 complete.
